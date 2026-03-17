@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How long can I rent a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Rental durations are scheduled based on project needs and confirmed before delivery.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What debris is allowed in a dumpster rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most household, renovation, and construction debris is accepted, excluding restricted materials.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is dumpster delivery scheduled in advance?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, delivery and pickup times are coordinated during booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I choose the right dumpster size?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Size selection depends on debris type, volume, and project duration.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if my dumpster fills up early?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Additional hauling or container replacement can be arranged.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
